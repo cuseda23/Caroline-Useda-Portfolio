@@ -1,0 +1,1 @@
+This work was completed as part of the 2021 Data Science REU hosted by Worcester Polytechnic Institute, and was continued as I was hired for the fall 2021 semester. Under the supervision of Dr. Lane Harrison, my group and I studied the usability of COILS, an interface that uses machine learning to automate classroom observation. 
