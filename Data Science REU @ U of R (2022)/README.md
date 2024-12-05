@@ -1,0 +1,1 @@
+This work was completed as part of the Compuational Methods for Music, Media, and Minds REU hosted by the University of Rochester Data Science Department. Under the supervision of Dr. Dongmei Li, my research partner and I studied the perception of IQOS, a heated tobacco product in the United States and United Kingdom. Our findings are summarized here in report and poster form.
