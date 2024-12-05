@@ -1,0 +1,1 @@
+Contains independent project completed Fall 2022 as part of Advanced Data Analysis or STAT 495. The objective of the assignment is to choose a statistical method you haven’t worked with and write a report explaining the method to a peer level audience, including a code application. For my method, I chose MICE, or Multivariate Imputation by Chained Equations. 
