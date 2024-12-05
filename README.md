@@ -1,0 +1,1 @@
+This repostiory contains the work from my academic and research positions held during my time at Amherst College, aimed toward perspective employers. Information about specific projects are available in their respective class/program folders.
